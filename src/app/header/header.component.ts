@@ -8,6 +8,7 @@ import { Component } from '@angular/core';
 export class HeaderComponent {
 
   slogon: string='your one stop for every thing.'
+  imgSource: string="./assets/shiva.jpg";
   getSlogon(){
     return 'this is a new slogon for the application.'
   }

@@ -8,6 +8,13 @@ there are two types of data binding.
 
     String Interpolation: in Angular is used to bind data from component to view, that mean data flow from component to view.
 
+Property Binding:
+
+
+
+Event binding:
+
+
 
     
 2. two-way data binding

@@ -1,9 +1,0 @@
-## Data binding in AngularJS
-every compponent has one component class and one redering file called html. 
-in html  file we bind the data insed the {{ <data binding> }} tag and declartion present in class file
-
-there are two  types of data binding 
-1. one way data binding 
-    in one way data binding we bind class file data in html 
-2. two way data binding
-    in two way data binding we bind class file data in html and viceversa

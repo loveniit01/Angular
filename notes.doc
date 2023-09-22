@@ -1,0 +1,14 @@
+## Data binding in AngularJS
+every component has one component class and one rendering file called html (view template). 
+in html file we bind the data inside the {{ <data binding> }} tag and declaration present in class file
+
+there are two types of data binding. 
+1. one way data binding 
+    in one way data binding we bind class file data in html. 
+
+    String Interpolation: in Angular is used to bind data from component to view, that mean data flow from component to view.
+
+
+    
+2. two-way data binding
+    in two-way data binding we bind class file data in html and vice versa

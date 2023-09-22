@@ -15,4 +15,5 @@ import { Component } from '@angular/core';
 })
 export class NavComponent {
 
+  siteName: string='eShopping';
 }
